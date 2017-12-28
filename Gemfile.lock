@@ -371,7 +371,7 @@ DEPENDENCIES
   rails (~> 5.1.4)
   sass-rails (~> 5.0)
   selenium-webdriver
-  spree (~> 3.3)
+  spree (~> 3.4.4)
   spree_auth_devise (~> 3.3)
   spree_gateway (~> 3.3)
   spring
